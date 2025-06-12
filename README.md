@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" /><h1 align="center">Hi 👋, I'm Narcotic</h1>
+  <img width="12" /><h1 align="center">I'm Narcotic</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvvn240100&label=Profile%20views&color=0e75b6&style=flat" alt="nvvn240100" /> </p>
